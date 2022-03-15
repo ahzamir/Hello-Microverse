@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> This is a  simple html page which is contain a Hello Microverse header.
+> This is a  simple html page which is contains a Hello Microverse header.
 
 
 ## Built With
